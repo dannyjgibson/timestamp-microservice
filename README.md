@@ -1,2 +1,4 @@
-# timestamp-microservice
-A FreeCodeCamp project on using express 
+Timestamp Microservice
+=========================
+
+Built on glitch.com for free code camp stuff. 
